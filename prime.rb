@@ -17,4 +17,3 @@ def prime?(num)
   
 end
   
-puts prime?(7)
